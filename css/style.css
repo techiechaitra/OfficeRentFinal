@@ -226,6 +226,7 @@ a {
 .footer .footer-left {
   width: 33%;
   padding-right: 15px;
+  left:5%;
 }
 
 .footer .about {
@@ -276,6 +277,7 @@ h3 {
 
 .footer .footer-center {
   width: 30%;
+  left:5%;
 }
 
 .footer .footer-center i {
@@ -319,6 +321,7 @@ h3 {
 
 .footer .footer-right {
   width: 35%;
+  left:5%;
 }
 
 .footer h2 {
